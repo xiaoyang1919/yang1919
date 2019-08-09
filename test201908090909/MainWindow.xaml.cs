@@ -23,6 +23,9 @@ namespace test201908090909
         public MainWindow()
         {
             InitializeComponent();
+
+
+
         }
     }
 }
